@@ -1,0 +1,61 @@
+text,label
+"El producto llegó en perfectas condiciones y superó mis expectativas. La calidad es excelente y el envío fue rápido.",positivo
+"Estoy muy satisfecho con esta compra. Recomiendo ampliamente a todos mis amigos.",positivo
+"Excelente atención al cliente. Resolvieron mi problema inmediatamente.",positivo
+"El mejor producto que he comprado en años. Vale cada peso invertido.",positivo
+"Magnífico servicio. El equipo fue profesional y eficiente.",positivo
+"Me encanta. Superó todas mis expectativas.",positivo
+"Producto de alta calidad. Llegó antes de lo esperado.",positivo
+"La mejor inversión que he hecho. Muy contenta con el resultado.",positivo
+"Servicio impecable. El personal es muy amable y profesional.",positivo
+"Producto fantástico. Durabilidad comprobada.",positivo
+"El producto es defectuoso y no funciona como se describe.",negativo
+"Pésima calidad. Se rompió después de una semana.",negativo
+"Atención al cliente terrible. Nadie responde mis mensajes.",negativo
+"Estoy muy decepcionado. No volvería a comprar aquí.",negativo
+"El servicio fue muy lento y caro.",negativo
+"Producto falsificado. No es lo que pedí.",negativo
+"Llegoron días tarde y en malas condiciones.",negativo
+"Dinero tirado a la basura. Terrible experiencia.",negativo
+"El peor servicio que he experimentado. No lo recomiendo.",negativo
+"Calidad aceptable pero hay mejores opciones por menos precio.",negativo
+"El producto es útil pero tiene algunos defectos menores.",neutral
+"Es decente. Cumple su función aunque esperaba más.",neutral
+"El precio es un poco alto para lo que ofrece.",neutral
+"Funciona bien pero hay alternativas similares en el mercado.",neutral
+"El producto llegó pero con demora de unos días.",neutral
+"Calidad media. Podría ser mejor pero tampoco es malo.",neutral
+"La entrega fue normal. El producto es como se describe.",neutral
+"Satisficción moderada. Algunos aspectos positivos y otros negativos.",neutral
+"Es un producto promedio. Cumple lo prometido.",neutral
+"El servicio es aceptable aunque podría mejorar.",neutral
+"Producto de buena calidad y excelente precio.",positivo
+"Me sorprendió gratamente. Muy buen value for money.",positivo
+"Fantástico. Volvería a comprar sin dudarlo.",positivo
+"Superó mis expectativas ampliamente.",positivo
+"Muy recomendable. Calidad premium a precio justo.",positivo
+"Producto extraordinario. Entrega rápida y segura.",positivo
+"Estoy encantado. Mejor de lo esperado.",positivo
+"Excelente relación calidad-precio.",positivo
+"El mejor en su categoría. No hay duda.",positivo
+"Impresionante. Recomiendo cien por ciento.",positivo
+"El producto es completamente inútil.",negativo
+"Puro engaño. Nada de lo prometido se cumple.",negativo
+"Calidad pésima. No vale la pena.",negativo
+"Experiencia negativa desde inicio a fin.",negativo
+"Decepcionante en todos los aspectos.",negativo
+"Rotura inmediata. Mala fabricación.",negativo
+"No llega a las expectativas. Muy malo.",negativo
+"Devuelvo porque está defectuoso.",negativo
+"Horrible. El peor producto jamás comprado.",negativo
+"Total desperdicio de dinero.",negativo
+"El producto tiene características básicas.",neutral
+"Nada especial pero tampoco está mal.",neutral
+"Sirve para lo que lo compré.",neutral
+"Resultados esperados. Ni más ni menos.",neutral
+"Es aceptable. Hay opciones mejores y peores.",neutral
+"No me arrepiento pero tampoco es memorable.",neutral
+"Funcionalidad estándar.",neutral
+"Cumple pero sin destacar.",neutral
+"Ni bueno ni malo. Simplemente correcto.",neutral
+"Producto normal para su precio.",neutral

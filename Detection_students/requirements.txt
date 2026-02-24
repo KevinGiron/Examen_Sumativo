@@ -1,0 +1,28 @@
+# Requisitos para el Sistema de Detección de Personas en Aulas
+# Instalar con: pip install -r requirements.txt
+
+# Detección de objetos con YOLO
+ultralytics>=8.0.0
+
+# Procesamiento de imágenes
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Aplicación web Streamlit
+streamlit>=1.28.0
+
+# Utilidades HTTP para cargar imágenes desde URL
+requests>=2.31.0
+
+# PyTorch (requerido por ultralytics)
+# Nota: La versión exacta dependerá de tu sistema (CPU/GPU)
+# Para CPU:
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Opcional: Para mejor rendimiento con GPU NVIDIA (comenta si no tienes CUDA)
+# torch-cuda (instálalo según tu versión de CUDA)
+
+# Logging y debugging
+python-dotenv>=1.0.0
